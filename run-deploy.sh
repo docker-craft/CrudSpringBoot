@@ -1,0 +1,1 @@
+docker stack deploy -c maxscale/docker-compose.yml max
